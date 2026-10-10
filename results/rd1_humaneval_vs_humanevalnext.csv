@@ -1,0 +1,7 @@
+model,humaneval_avg_overall,humanevalnext_avg_overall,difference_hen_minus_he
+StarCoder2-7B,2.257,2.257,0.000
+Magicoder-S-DS-6.7B,2.110,2.239,0.129
+Mistral-7B-Instruct-v0.3,2.993,2.919,-0.075
+DeepSeek-Coder-6.7B-Instruct,3.333,3.171,-0.162
+CodeLlama-7B-Python,3.026,3.046,0.020
+CodeLlama-7B-Instruct,2.698,2.333,-0.365

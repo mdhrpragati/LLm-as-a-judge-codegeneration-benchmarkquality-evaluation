@@ -1,0 +1,7 @@
+model,judge_consistency_blended,judge_consistency_valid_count_ge2
+StarCoder2-7B,0.90,0.91
+Magicoder-S-DS-6.7B,0.88,0.99
+Mistral-7B-Instruct-v0.3,0.91,0.91
+DeepSeek-Coder-6.7B-Instruct,0.94,0.94
+CodeLlama-7B-Python,0.91,0.91
+CodeLlama-7B-Instruct,0.86,0.90

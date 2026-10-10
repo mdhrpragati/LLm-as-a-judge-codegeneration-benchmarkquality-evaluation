@@ -1,0 +1,7 @@
+model,correctness,reasoning,clarity,robustness,efficiency,overall,validity_rate
+StarCoder2-7B,2.32,2.30,2.48,1.83,2.36,2.26,0.91
+Magicoder-S-DS-6.7B,2.22,2.19,2.37,1.73,2.25,2.15,0.48
+Mistral-7B-Instruct-v0.3,2.91,3.04,3.41,2.27,3.21,2.97,0.96
+DeepSeek-Coder-6.7B-Instruct,3.27,3.46,3.74,2.33,3.60,3.28,0.98
+CodeLlama-7B-Python,3.05,3.14,3.47,2.32,3.17,3.03,0.91
+CodeLlama-7B-Instruct,2.55,2.62,3.00,1.94,2.77,2.58,0.59

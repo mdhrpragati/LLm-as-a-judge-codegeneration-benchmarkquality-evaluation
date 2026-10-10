@@ -1,0 +1,7 @@
+judge_pair,pearson_r_humaneval,pearson_r_humanevalnext,mae_humaneval,mae_humanevalnext,sign_agreement_pct
+Qwen-14B vs Qwen-7B,0.26,0.85,0.39,0.27,59.8
+Qwen-14B vs OLMo-13B,0.12,0.60,0.36,0.46,47.6
+Qwen-14B vs Phi-4,0.42,0.74,0.36,0.36,57.3
+Qwen-7B vs OLMo-13B,0.25,0.58,0.45,0.49,42.7
+Qwen-7B vs Phi-4,0.38,0.73,0.49,0.40,48.8
+OLMo-13B vs Phi-4,0.28,0.78,0.31,0.29,42.7
